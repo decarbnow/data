@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "OBJECTID": 140, "CNTRY_NAME": "Macau" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 113.531661987305, 22.194736480712901 ], [ 113.53630065918, 22.2084674835206 ], [ 113.554428100585994, 22.212730407714901 ], [ 113.552680969237997, 22.187009811401499 ], [ 113.531661987305, 22.194736480712901 ] ] ] } }
+]
+}

@@ -1,0 +1,17 @@
+{
+    "id": "big-cities",
+    "file": "worldcities.geojson",
+    "name": "Big cities <i class='fa fa-info-circle'></i>",
+    "style": {
+        "color": "#00FF00"
+    },
+    "popup": {
+        "template": "popup.html"
+    },
+    "pointToLayer": {
+        "radius": {
+            "feature": "population",
+            "factor": 1/70000
+        }
+    }
+}
