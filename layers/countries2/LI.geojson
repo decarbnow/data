@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "LI", "CNTR_NAME": "Liechtenstein", "ISO3_CODE": "LIE", "CNTR_ID": "LI", "NAME_ENGL": "Liechtenstein", "FID": "LI" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.607, 47.061 ], [ 9.476, 47.052 ], [ 9.531, 47.271 ], [ 9.621, 47.152 ], [ 9.607, 47.061 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "WF", "CNTR_NAME": "Wallis-Et-Futuna", "ISO3_CODE": "WLF", "CNTR_ID": "WF", "NAME_ENGL": "Wallis and Futuna", "FID": "WF" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -176.026, -13.282 ], [ -176.261, -13.507 ], [ -176.335, -13.29 ], [ -176.209, -13.035 ], [ -176.026, -13.282 ] ] ] } }
+]
+}

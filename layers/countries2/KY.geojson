@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "KY", "CNTR_NAME": "Cayman Islands", "ISO3_CODE": "CYM", "CNTR_ID": "KY", "NAME_ENGL": "Cayman Islands", "FID": "KY" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -81.532, 19.413 ], [ -80.982, 19.376 ], [ -81.008, 19.275 ], [ -81.464, 19.226 ], [ -81.532, 19.413 ] ] ] } }
+]
+}

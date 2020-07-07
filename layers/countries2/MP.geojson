@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "MP", "CNTR_NAME": "Northern Mariana Islands-Notte Mariånas-Northern Mariana Islands", "ISO3_CODE": "MNP", "CNTR_ID": "MP", "NAME_ENGL": "Northern Mariana Islands", "FID": "MP" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 145.555, 14.967 ], [ 145.638, 15.289 ], [ 145.872, 15.323 ], [ 145.715, 14.918 ], [ 145.555, 14.967 ] ] ] } }
+]
+}

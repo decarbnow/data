@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "NI", "CNTR_NAME": "Nicaragua", "ISO3_CODE": "NIC", "CNTR_ID": "NI", "NAME_ENGL": "Nicaragua", "FID": "NI" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -83.693, 10.939 ], [ -83.946, 10.743 ], [ -84.624, 11.033 ], [ -85.695, 11.08 ], [ -87.631, 12.912 ], [ -87.312, 12.983 ], [ -86.765, 13.316 ], [ -86.694, 13.744 ], [ -85.324, 14.19 ], [ -84.913, 14.754 ], [ -84.405, 14.639 ], [ -83.145, 14.998 ], [ -83.518, 13.628 ], [ -83.544, 12.463 ], [ -83.843, 11.327 ], [ -83.693, 10.939 ] ] ] } }
+]
+}

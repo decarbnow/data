@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "TL", "CNTR_NAME": "Timor-Leste-Timor Lorosae", "ISO3_CODE": "TLS", "CNTR_ID": "TL", "NAME_ENGL": "Timor-Leste", "FID": "TL" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 125.082, -9.446 ], [ 125.128, -9.069 ], [ 124.95, -8.958 ], [ 125.232, -8.624 ], [ 126.352, -8.437 ], [ 127.05, -8.334 ], [ 127.246, -8.434 ], [ 126.352, -8.964 ], [ 125.082, -9.446 ] ] ], [ [ [ 124.477, -9.175 ], [ 124.354, -9.397 ], [ 124.045, -9.343 ], [ 124.304, -9.207 ], [ 124.477, -9.175 ] ] ] ] } }
+]
+}

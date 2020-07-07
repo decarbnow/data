@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "GI", "CNTR_NAME": "Gibraltar", "ISO3_CODE": "GIB", "CNTR_ID": "GI", "NAME_ENGL": "Gibraltar", "FID": "GI" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -5.339, 36.152 ], [ -5.341, 36.125 ], [ -5.348, 36.114 ], [ -5.356, 36.125 ], [ -5.359, 36.146 ], [ -5.359, 36.15 ], [ -5.352, 36.153 ], [ -5.339, 36.152 ] ] ] } }
+]
+}

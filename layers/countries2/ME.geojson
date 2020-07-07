@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "ME", "CNTR_NAME": "Црна Гора", "ISO3_CODE": "MNE", "CNTR_ID": "ME", "NAME_ENGL": "Montenegro", "FID": "ME" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 20.076, 42.556 ], [ 19.831, 42.466 ], [ 19.662, 42.547 ], [ 19.488, 42.393 ], [ 19.392, 42.296 ], [ 19.384, 42.106 ], [ 19.373, 41.844 ], [ 18.525, 42.42 ], [ 18.438, 42.556 ], [ 18.707, 43.155 ], [ 19.224, 43.528 ], [ 20.064, 43.007 ], [ 20.353, 42.833 ], [ 20.076, 42.556 ] ] ] } }
+]
+}

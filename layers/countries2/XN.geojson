@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "XN", "CNTR_NAME": "Senkaku Islands (Disputed Territory)", "ISO3_CODE": "XN", "CNTR_ID": "XN", "NAME_ENGL": "Senkaku Islands", "FID": "XN" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 123.179, 25.68 ], [ 123.546, 25.889 ], [ 123.681, 25.711 ], [ 123.299, 25.584 ], [ 123.179, 25.68 ] ] ] } }
+]
+}

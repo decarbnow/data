@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "SX", "CNTR_NAME": "Sint-Maarten", "ISO3_CODE": "SXM", "CNTR_ID": "SX", "NAME_ENGL": "Sint-Maarten", "FID": "SX" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -63.189, 18.011 ], [ -63.074, 18.123 ], [ -62.997, 18.085 ], [ -62.994, 18.005 ], [ -63.101, 17.969 ], [ -63.189, 18.011 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "BI", "CNTR_NAME": "Burundi-Burundi", "ISO3_CODE": "BDI", "CNTR_ID": "BI", "NAME_ENGL": "Burundi", "FID": "BI" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.423, -4.448 ], [ 29.041, -2.744 ], [ 29.182, -2.638 ], [ 29.707, -2.78 ], [ 30.019, -2.439 ], [ 30.543, -2.413 ], [ 30.472, -2.853 ], [ 30.806, -3.032 ], [ 30.802, -3.221 ], [ 30.012, -4.281 ], [ 29.423, -4.448 ] ] ] } }
+]
+}

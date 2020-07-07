@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "IM", "CNTR_NAME": "Isle of Man-Ellan Vannin", "ISO3_CODE": "IMN", "CNTR_ID": "IM", "NAME_ENGL": "Isle of Man", "FID": "IM" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.77, 54.066 ], [ -4.721, 54.203 ], [ -4.55, 54.354 ], [ -4.387, 54.4 ], [ -4.338, 54.293 ], [ -4.55, 54.101 ], [ -4.77, 54.066 ] ] ] } }
+]
+}

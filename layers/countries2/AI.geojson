@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "AI", "CNTR_NAME": "Anguilla", "ISO3_CODE": "AIA", "CNTR_ID": "AI", "NAME_ENGL": "Anguilla", "FID": "AI" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -63.256, 18.124 ], [ -63.128, 18.182 ], [ -63.085, 18.248 ], [ -62.91, 18.316 ], [ -62.946, 18.233 ], [ -63.107, 18.143 ], [ -63.256, 18.124 ] ] ] } }
+]
+}

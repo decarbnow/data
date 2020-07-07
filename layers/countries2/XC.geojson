@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "XC", "CNTR_NAME": "Aksai Chin (Disputed Territory)", "ISO3_CODE": "XC", "CNTR_ID": "XC", "NAME_ENGL": "Aksai Chin", "FID": "XC" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 78.923, 33.392 ], [ 78.731, 33.67 ], [ 78.759, 34.046 ], [ 78.923, 34.157 ], [ 78.923, 34.37 ], [ 78.685, 34.517 ], [ 78.308, 34.625 ], [ 78.208, 34.753 ], [ 77.924, 35.494 ], [ 79.309, 35.927 ], [ 80.255, 35.365 ], [ 80.003, 34.669 ], [ 79.474, 34.138 ], [ 78.983, 33.981 ], [ 78.923, 33.392 ] ] ] } }
+]
+}

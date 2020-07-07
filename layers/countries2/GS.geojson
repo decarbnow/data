@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "GS", "CNTR_NAME": "South Georgia and The South Sandwich Islands", "ISO3_CODE": "SGS", "CNTR_ID": "GS", "NAME_ENGL": "South Georgia and The South Sandwich Islands", "FID": "GS" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -36.148, -54.379 ], [ -36.05, -54.572 ], [ -35.86, -54.555 ], [ -35.871, -54.79 ], [ -36.247, -54.813 ], [ -36.453, -54.533 ], [ -36.827, -54.459 ], [ -37.213, -54.209 ], [ -36.923, -54.06 ], [ -36.674, -54.28 ], [ -36.148, -54.379 ] ] ], [ [ [ -41.484, -53.699 ], [ -41.577, -53.795 ], [ -41.98, -53.633 ], [ -41.767, -53.477 ], [ -41.484, -53.699 ] ] ], [ [ [ -37.381, -54.148 ], [ -37.638, -54.255 ], [ -37.827, -54.128 ], [ -37.443, -53.938 ], [ -37.381, -54.148 ] ] ] ] } }
+]
+}

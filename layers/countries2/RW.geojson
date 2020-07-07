@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "RW", "CNTR_NAME": "Rwanda-Rwanda-Rwanda", "ISO3_CODE": "RWA", "CNTR_ID": "RW", "NAME_ENGL": "Rwanda", "FID": "RW" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.543, -2.413 ], [ 30.019, -2.439 ], [ 29.707, -2.78 ], [ 29.182, -2.638 ], [ 29.041, -2.744 ], [ 28.947, -2.388 ], [ 28.995, -2.273 ], [ 29.208, -1.766 ], [ 29.59, -1.387 ], [ 30.093, -1.369 ], [ 30.474, -1.057 ], [ 30.796, -1.58 ], [ 30.822, -1.766 ], [ 30.829, -2.111 ], [ 30.676, -2.273 ], [ 30.543, -2.413 ] ] ] } }
+]
+}

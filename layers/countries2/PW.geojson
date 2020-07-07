@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "PW", "CNTR_NAME": "Palau-Belau", "ISO3_CODE": "PLW", "CNTR_ID": "PW", "NAME_ENGL": "Palau", "FID": "PW" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 134.279, 6.84 ], [ 133.99, 6.711 ], [ 134.019, 7.062 ], [ 134.199, 7.09 ], [ 134.279, 6.84 ] ] ], [ [ [ 131.29, 3.083 ], [ 131.112, 2.758 ], [ 130.96, 3.018 ], [ 131.255, 3.226 ], [ 131.29, 3.083 ] ] ], [ [ [ 134.679, 7.747 ], [ 134.616, 7.285 ], [ 134.403, 7.302 ], [ 134.523, 7.661 ], [ 134.679, 7.747 ] ] ] ] } }
+]
+}

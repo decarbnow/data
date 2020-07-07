@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "XL", "CNTR_NAME": "Navassa Island (Disputed Territory)", "ISO3_CODE": "XL", "CNTR_ID": "XL", "NAME_ENGL": "Navassa Island", "FID": "XL" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -75.251, 18.529 ], [ -74.896, 18.517 ], [ -74.837, 18.265 ], [ -75.089, 18.29 ], [ -75.251, 18.529 ] ] ] } }
+]
+}

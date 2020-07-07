@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "GG", "CNTR_NAME": "Guernsey-Guernesey", "ISO3_CODE": "GGY", "CNTR_ID": "GG", "NAME_ENGL": "Guernsey", "FID": "GG" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.72, 49.444 ], [ -2.47, 49.642 ], [ -2.312, 49.638 ], [ -2.405, 49.318 ], [ -2.72, 49.444 ] ] ] } }
+]
+}

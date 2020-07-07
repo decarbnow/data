@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "XM", "CNTR_NAME": "Scarborough Reef (Disputed Territory)", "ISO3_CODE": "XM", "CNTR_ID": "XM", "NAME_ENGL": "Scarborough Reef", "FID": "XM" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 117.605, 15.298 ], [ 117.685, 15.349 ], [ 117.811, 15.241 ], [ 117.993, 15.085 ], [ 117.924, 15.004 ], [ 117.637, 15.073 ], [ 117.605, 15.298 ] ] ] } }
+]
+}

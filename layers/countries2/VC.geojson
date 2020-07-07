@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "VC", "CNTR_NAME": "Saint Vincent and The Grenadines", "ISO3_CODE": "VCT", "CNTR_ID": "VC", "NAME_ENGL": "Saint Vincent and The Grenadines", "FID": "VC" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -61.357, 13.167 ], [ -61.212, 13.473 ], [ -61.058, 13.396 ], [ -61.105, 13.07 ], [ -61.357, 13.167 ] ] ] } }
+]
+}

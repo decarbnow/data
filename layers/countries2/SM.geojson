@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "SM", "CNTR_NAME": "San Marino", "ISO3_CODE": "SMR", "CNTR_ID": "SM", "NAME_ENGL": "San Marino", "FID": "SM" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.453, 43.894 ], [ 12.45, 43.897 ], [ 12.47, 43.973 ], [ 12.493, 43.907 ], [ 12.487, 43.896 ], [ 12.469, 43.897 ], [ 12.462, 43.894 ], [ 12.453, 43.894 ] ] ] } }
+]
+}

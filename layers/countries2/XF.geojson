@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "XF", "CNTR_NAME": "Hala'Ib Triangle (Disputed Territory)", "ISO3_CODE": "XF", "CNTR_ID": "XF", "NAME_ENGL": "Hala'Ib Triangle", "FID": "XF" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.882, 22.005 ], [ 34.594, 22.003 ], [ 34.087, 22.003 ], [ 34.213, 22.2 ], [ 34.594, 22.281 ], [ 34.952, 22.794 ], [ 35.622, 23.146 ], [ 35.819, 22.803 ], [ 36.882, 22.005 ] ] ] } }
+]
+}

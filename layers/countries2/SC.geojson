@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "SC", "CNTR_NAME": "Sesel-Seychelles-Seychelles", "ISO3_CODE": "SYC", "CNTR_ID": "SC", "NAME_ENGL": "Seychelles", "FID": "SC" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 55.658, -4.677 ], [ 55.65, -4.85 ], [ 55.172, -4.571 ], [ 55.353, -4.486 ], [ 55.658, -4.677 ] ] ], [ [ [ -63.488, 15.592 ], [ -63.577, 15.412 ], [ -63.79, 15.755 ], [ -63.577, 15.893 ], [ -63.488, 15.592 ] ] ], [ [ [ 46.481, -9.473 ], [ 46.15, -9.565 ], [ 46.083, -9.335 ], [ 46.402, -9.287 ], [ 46.481, -9.473 ] ] ], [ [ [ 53.149, -6.358 ], [ 52.846, -6.38 ], [ 53.017, -6.047 ], [ 53.208, -6.135 ], [ 53.149, -6.358 ] ] ] ] } }
+]
+}

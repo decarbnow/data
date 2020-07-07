@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "DO", "CNTR_NAME": "República Dominicana", "ISO3_CODE": "DOM", "CNTR_ID": "DO", "NAME_ENGL": "Dominican Republic", "FID": "DO" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -71.754, 18.031 ], [ -71.877, 18.557 ], [ -71.675, 19.166 ], [ -71.758, 19.702 ], [ -71.016, 19.874 ], [ -70.112, 19.66 ], [ -69.695, 19.327 ], [ -69.285, 19.281 ], [ -69.376, 19.098 ], [ -68.753, 18.908 ], [ -68.447, 18.57 ], [ -68.677, 18.212 ], [ -69.745, 18.431 ], [ -70.349, 18.25 ], [ -70.875, 18.31 ], [ -71.437, 17.779 ], [ -71.754, 18.031 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "BL", "CNTR_NAME": "Saint-Barthélemy", "ISO3_CODE": "BLM", "CNTR_ID": "BL", "NAME_ENGL": "Saint Barthélemy", "FID": "BL" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -62.979, 17.989 ], [ -62.867, 17.912 ], [ -62.777, 17.964 ], [ -62.7, 17.875 ], [ -62.866, 17.825 ], [ -62.979, 17.989 ] ] ] } }
+]
+}

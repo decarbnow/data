@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "WS", "CNTR_NAME": "Samoa-Sāmoa", "ISO3_CODE": "WSM", "CNTR_ID": "WS", "NAME_ENGL": "Samoa", "FID": "WS" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -172.138, -13.674 ], [ -172.541, -13.827 ], [ -172.764, -13.557 ], [ -172.287, -13.438 ], [ -172.138, -13.674 ] ] ], [ [ [ -171.531, -13.915 ], [ -171.579, -14.038 ], [ -171.919, -14.008 ], [ -172.031, -13.876 ], [ -171.833, -13.788 ], [ -171.531, -13.915 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "KW", "CNTR_NAME": "الكويت", "ISO3_CODE": "KWT", "CNTR_ID": "KW", "NAME_ENGL": "Kuwait", "FID": "KW" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 47.959, 30.004 ], [ 48.336, 29.78 ], [ 47.882, 29.43 ], [ 48.092, 29.294 ], [ 48.433, 28.531 ], [ 47.764, 28.545 ], [ 47.418, 28.98 ], [ 46.553, 29.101 ], [ 47.214, 30.013 ], [ 47.959, 30.004 ] ] ] } }
+]
+}

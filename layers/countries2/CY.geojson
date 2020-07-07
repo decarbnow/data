@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "CY", "CNTR_NAME": "Κύπρος-Kıbrıs", "ISO3_CODE": "CYP", "CNTR_ID": "CY", "NAME_ENGL": "Cyprus", "FID": "CY" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 33.625, 34.851 ], [ 32.942, 34.642 ], [ 32.559, 34.687 ], [ 32.369, 34.851 ], [ 32.444, 35.078 ], [ 33.017, 35.334 ], [ 34.007, 35.432 ], [ 34.171, 35.558 ], [ 34.543, 35.681 ], [ 34.558, 35.641 ], [ 34.061, 35.327 ], [ 33.963, 35.32 ], [ 33.93, 35.06 ], [ 33.625, 34.851 ] ] ] } }
+]
+}

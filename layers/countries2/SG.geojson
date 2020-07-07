@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "SG", "CNTR_NAME": "新加坡-Singapore-Singapura-சிங்கப்பூர்", "ISO3_CODE": "SGP", "CNTR_ID": "SG", "NAME_ENGL": "Singapore", "FID": "SG" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 103.723, 1.331 ], [ 103.89, 1.394 ], [ 103.933, 1.345 ], [ 103.909, 1.239 ], [ 103.832, 1.239 ], [ 103.723, 1.331 ] ] ] } }
+]
+}

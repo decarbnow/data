@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "MU", "CNTR_NAME": "Mauritius", "ISO3_CODE": "MUS", "CNTR_ID": "MU", "NAME_ENGL": "Mauritius", "FID": "MU" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 57.82, -20.227 ], [ 57.681, -20.491 ], [ 57.295, -20.474 ], [ 57.352, -20.289 ], [ 57.603, -19.968 ], [ 57.82, -20.227 ] ] ], [ [ [ 59.921, -16.631 ], [ 59.83, -16.714 ], [ 59.637, -16.688 ], [ 59.547, -16.592 ], [ 59.547, -16.378 ], [ 59.808, -16.517 ], [ 59.921, -16.631 ] ] ], [ [ [ 56.634, -10.3 ], [ 56.486, -10.354 ], [ 56.287, -10.051 ], [ 56.501, -9.945 ], [ 56.634, -10.3 ] ] ] ] } }
+]
+}

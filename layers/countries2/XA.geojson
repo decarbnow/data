@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "XA", "CNTR_NAME": "Paracel Islands (Disputed Territory)", "ISO3_CODE": "XA", "CNTR_ID": "XA", "NAME_ENGL": "Paracel Islands", "FID": "XA" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 112.52, 16.793 ], [ 112.321, 16.643 ], [ 112.144, 16.916 ], [ 112.271, 16.975 ], [ 112.519, 16.901 ], [ 112.52, 16.793 ] ] ], [ [ [ 111.467, 15.921 ], [ 111.235, 15.62 ], [ 111.033, 15.765 ], [ 111.142, 15.921 ], [ 111.467, 15.921 ] ] ] ] } }
+]
+}

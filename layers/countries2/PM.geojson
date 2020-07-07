@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "PM", "CNTR_NAME": "Saint-Pierre-Et-Miquelon", "ISO3_CODE": "SPM", "CNTR_ID": "PM", "NAME_ENGL": "Saint Pierre and Miquelon", "FID": "PM" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -56.181, 47.148 ], [ -56.261, 46.891 ], [ -55.981, 46.718 ], [ -56.169, 46.641 ], [ -56.52, 46.806 ], [ -56.38, 46.97 ], [ -56.385, 47.23 ], [ -56.181, 47.148 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "XG", "CNTR_NAME": "Ilemi Triangle (Disputed Territory)", "ISO3_CODE": "XG", "CNTR_ID": "XG", "NAME_ENGL": "Ilemi Triangle", "FID": "XG" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.509, 4.62 ], [ 34.378, 4.62 ], [ 34.543, 4.75 ], [ 35.249, 4.956 ], [ 35.509, 4.62 ] ] ] } }
+]
+}

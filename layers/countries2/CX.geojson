@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "CX", "CNTR_NAME": "Christmas Island", "ISO3_CODE": "CXR", "CNTR_ID": "CX", "NAME_ENGL": "Christmas Island", "FID": "CX" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 105.425, -10.515 ], [ 105.73, -10.303 ], [ 105.826, -10.333 ], [ 105.683, -10.686 ], [ 105.425, -10.515 ] ] ] } }
+]
+}

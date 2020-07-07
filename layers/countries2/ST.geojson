@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "ST", "CNTR_NAME": "São Tomé E Príncipe", "ISO3_CODE": "STP", "CNTR_ID": "ST", "NAME_ENGL": "São Tomé and Príncipe", "FID": "ST" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.443, 0.247 ], [ 6.614, 0.434 ], [ 6.771, 0.244 ], [ 6.505, -0.008 ], [ 6.443, 0.247 ] ] ] } }
+]
+}

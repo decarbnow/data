@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "BZ", "CNTR_NAME": "Belize", "ISO3_CODE": "BLZ", "CNTR_ID": "BZ", "NAME_ENGL": "Belize", "FID": "BZ" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -88.913, 15.9 ], [ -89.181, 15.968 ], [ -89.197, 16.29 ], [ -89.147, 17.809 ], [ -88.317, 18.489 ], [ -88.138, 18.197 ], [ -88.269, 16.824 ], [ -88.913, 15.9 ] ] ], [ [ [ -87.68, 17.36 ], [ -87.854, 17.122 ], [ -88.045, 17.259 ], [ -87.853, 17.52 ], [ -87.68, 17.36 ] ] ] ] } }
+]
+}

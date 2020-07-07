@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "AS", "CNTR_NAME": "American Samoa-Sāmoa Amelika", "ISO3_CODE": "ASM", "CNTR_ID": "AS", "NAME_ENGL": "American Samoa", "FID": "AS" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -171.019, -14.377 ], [ -170.64, -14.157 ], [ -170.586, -14.273 ], [ -170.785, -14.527 ], [ -171.019, -14.377 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "MT", "CNTR_NAME": "Malta-Malta", "ISO3_CODE": "MLT", "CNTR_ID": "MT", "NAME_ENGL": "Malta", "FID": "MT" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 14.646, 35.933 ], [ 14.433, 35.717 ], [ 14.234, 35.881 ], [ 14.412, 36.067 ], [ 14.646, 35.933 ] ] ], [ [ [ 14.348, 36.031 ], [ 14.262, 36.007 ], [ 14.173, 36.069 ], [ 14.231, 36.088 ], [ 14.348, 36.031 ] ] ] ] } }
+]
+}

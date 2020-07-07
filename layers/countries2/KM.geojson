@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "KM", "CNTR_NAME": "جزر القمر-Comores-Komori", "ISO3_CODE": "COM", "CNTR_ID": "KM", "NAME_ENGL": "Comoros", "FID": "KM" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 43.398, -11.361 ], [ 43.469, -11.827 ], [ 43.221, -11.745 ], [ 43.275, -11.383 ], [ 43.398, -11.361 ] ] ], [ [ [ 44.634, -12.299 ], [ 44.519, -12.43 ], [ 44.26, -12.207 ], [ 44.45, -12.024 ], [ 44.634, -12.299 ] ] ], [ [ [ 43.849, -12.274 ], [ 43.756, -12.504 ], [ 43.573, -12.476 ], [ 43.54, -12.233 ], [ 43.611, -12.156 ], [ 43.849, -12.274 ] ] ] ] } }
+]
+}

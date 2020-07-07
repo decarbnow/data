@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "TG", "CNTR_NAME": "Togo", "ISO3_CODE": "TGO", "CNTR_ID": "TG", "NAME_ENGL": "Togo", "FID": "TG" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.912, 10.996 ], [ 0.8, 10.668 ], [ 0.797, 10.399 ], [ 0.946, 10.259 ], [ 1.33, 9.965 ], [ 1.616, 8.974 ], [ 1.572, 6.83 ], [ 1.748, 6.33 ], [ 1.629, 6.235 ], [ 1.2, 6.112 ], [ 0.946, 6.333 ], [ 0.745, 6.621 ], [ 0.57, 6.872 ], [ 0.621, 8.221 ], [ 0.309, 10.293 ], [ -0.071, 10.668 ], [ -0.142, 11.139 ], [ 0.745, 11.019 ], [ 0.912, 10.996 ] ] ] } }
+]
+}
