@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "MO", "CNTR_NAME": "澳門-Macau", "ISO3_CODE": "MAC", "CNTR_ID": "MO", "NAME_ENGL": "Macau", "FID": "MO" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 113.53296, 22.20819 ], [ 113.54949, 22.20971 ], [ 113.55138, 22.18927 ], [ 113.53823, 22.19119 ], [ 113.53296, 22.20819 ] ] ] } }
+]
+}

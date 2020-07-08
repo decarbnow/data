@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "VI", "CNTR_NAME": "Us Virgin Islands", "ISO3_CODE": "VIR", "CNTR_ID": "VI", "NAME_ENGL": "Us Virgin Islands", "FID": "VI" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.67658, 17.71285 ], [ -64.91546, 17.67359 ], [ -64.88513, 17.77375 ], [ -64.74393, 17.78731 ], [ -64.67658, 17.71285 ] ] ], [ [ [ -64.85561, 18.3641 ], [ -64.86541, 18.29445 ], [ -64.97587, 18.30172 ], [ -64.99921, 18.35926 ], [ -64.85561, 18.3641 ] ] ], [ [ [ -64.70654, 18.33377 ], [ -64.73301, 18.30835 ], [ -64.76538, 18.34056 ], [ -64.7346, 18.3771 ], [ -64.70654, 18.33377 ] ] ] ] } }
+]
+}

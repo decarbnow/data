@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "BQ", "CNTR_NAME": "Bonaire, Sint Eustatius and Saba", "ISO3_CODE": "BES", "CNTR_ID": "BQ", "NAME_ENGL": "Bonaire, Sint Eustatius and Saba", "FID": "BQ" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -68.19296, 12.1322 ], [ -68.26337, 12.06052 ], [ -68.32144, 12.21017 ], [ -68.41302, 12.228 ], [ -68.42313, 12.26035 ], [ -68.38987, 12.31431 ], [ -68.27882, 12.23692 ], [ -68.19649, 12.22257 ], [ -68.19296, 12.1322 ] ] ], [ [ [ -63.17756, 17.6757 ], [ -63.19095, 17.59197 ], [ -63.30515, 17.61044 ], [ -63.2853, 17.67021 ], [ -63.17756, 17.6757 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "MS", "CNTR_NAME": "Montserrat", "ISO3_CODE": "MSR", "CNTR_ID": "MS", "NAME_ENGL": "Montserrat", "FID": "MS" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -62.24898, 16.7219 ], [ -62.17623, 16.80669 ], [ -62.13678, 16.69179 ], [ -62.18873, 16.66544 ], [ -62.24898, 16.7219 ] ] ] } }
+]
+}

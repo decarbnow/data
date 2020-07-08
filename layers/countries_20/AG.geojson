@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "AG", "CNTR_NAME": "Antigua and Barbuda", "ISO3_CODE": "ATG", "CNTR_ID": "AG", "NAME_ENGL": "Antigua and Barbuda", "FID": "AG" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -61.69023, 17.03015 ], [ -61.83289, 17.00297 ], [ -61.89156, 17.02518 ], [ -61.90153, 17.08201 ], [ -61.84757, 17.16724 ], [ -61.80237, 17.17129 ], [ -61.69023, 17.03015 ] ] ], [ [ [ -61.73765, 17.63875 ], [ -61.73328, 17.54562 ], [ -61.83434, 17.59047 ], [ -61.88956, 17.69983 ], [ -61.84231, 17.73027 ], [ -61.73765, 17.63875 ] ] ] ] } }
+]
+}

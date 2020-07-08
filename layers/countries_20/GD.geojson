@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "GD", "CNTR_NAME": "Grenada", "ISO3_CODE": "GRD", "CNTR_ID": "GD", "NAME_ENGL": "Grenada", "FID": "GD" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -61.76553, 12.01081 ], [ -61.76406, 12.08507 ], [ -61.72444, 12.1851 ], [ -61.65992, 12.23727 ], [ -61.60318, 12.21841 ], [ -61.60423, 12.12451 ], [ -61.6465, 12.03145 ], [ -61.76553, 12.01081 ] ] ] } }
+]
+}

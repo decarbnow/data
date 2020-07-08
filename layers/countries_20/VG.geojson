@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "VG", "CNTR_NAME": "British Virgin Islands", "ISO3_CODE": "VGB", "CNTR_ID": "VG", "NAME_ENGL": "British Virgin Islands", "FID": "VG" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -64.49538, 18.47254 ], [ -64.50888, 18.43194 ], [ -64.61565, 18.43254 ], [ -64.5812, 18.49377 ], [ -64.49538, 18.47254 ] ] ], [ [ [ -64.61305, 18.40656 ], [ -64.66814, 18.38059 ], [ -64.71606, 18.38764 ], [ -64.61954, 18.44508 ], [ -64.61305, 18.40656 ] ] ] ] } }
+]
+}

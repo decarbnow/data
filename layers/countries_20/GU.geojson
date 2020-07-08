@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "GU", "CNTR_NAME": "Guåhan-Guam", "ISO3_CODE": "GUM", "CNTR_ID": "GU", "NAME_ENGL": "Guam", "FID": "GU" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.63836, 13.3422 ], [ 144.6923, 13.46421 ], [ 144.79801, 13.50745 ], [ 144.85044, 13.64437 ], [ 144.95298, 13.59613 ], [ 144.92394, 13.52164 ], [ 144.77357, 13.3939 ], [ 144.76939, 13.29771 ], [ 144.72782, 13.25047 ], [ 144.67844, 13.25742 ], [ 144.63836, 13.3422 ] ] ] } }
+]
+}

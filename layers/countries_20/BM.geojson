@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "BM", "CNTR_NAME": "Bermuda", "ISO3_CODE": "BMU", "CNTR_ID": "BM", "NAME_ENGL": "Bermuda", "FID": "BM" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -64.82126, 32.2771 ], [ -64.71354, 32.37973 ], [ -64.63974, 32.35616 ], [ -64.78621, 32.25916 ], [ -64.82126, 32.2771 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "IO", "CNTR_NAME": "British Indian Ocean Territory", "ISO3_CODE": "IOT", "CNTR_ID": "IO", "NAME_ENGL": "British Indian Ocean Territory", "FID": "IO" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 72.28022, -7.22391 ], [ 72.35212, -7.18829 ], [ 72.34227, -7.25272 ], [ 72.49786, -7.34831 ], [ 72.4829, -7.38759 ], [ 72.28022, -7.22391 ] ] ] } }
+]
+}

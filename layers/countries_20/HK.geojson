@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "HK", "CNTR_NAME": "香港", "ISO3_CODE": "HKG", "CNTR_ID": "HK", "NAME_ENGL": "Hong Kong", "FID": "HK" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 114.03762, 22.5037 ], [ 114.23484, 22.55576 ], [ 114.35975, 22.36461 ], [ 114.27375, 22.33913 ], [ 114.21099, 22.22013 ], [ 114.0857, 22.29282 ], [ 114.00565, 22.22939 ], [ 113.8981, 22.24143 ], [ 114.03762, 22.5037 ] ] ] } }
+]
+}

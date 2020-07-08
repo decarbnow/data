@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "TK", "CNTR_NAME": "Tokelau-Tokelau", "ISO3_CODE": "TKL", "CNTR_ID": "TK", "NAME_ENGL": "Tokelau", "FID": "TK" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -172.55284, -8.50876 ], [ -172.49354, -8.50416 ], [ -172.43283, -8.59525 ], [ -172.52041, -8.61927 ], [ -172.55284, -8.50876 ] ] ] } }
+]
+}

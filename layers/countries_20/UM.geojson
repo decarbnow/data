@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "UM", "CNTR_NAME": "United States Minor Outlying Islands", "ISO3_CODE": "UMI", "CNTR_ID": "UM", "NAME_ENGL": "United States Minor Outlying Islands", "FID": "UM" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -162.38251, 6.3837 ], [ -162.41033, 6.33474 ], [ -162.57635, 6.47485 ], [ -162.70268, 6.537 ], [ -162.67885, 6.55889 ], [ -162.38251, 6.3837 ] ] ], [ [ [ -178.21163, 28.42026 ], [ -178.26618, 28.34731 ], [ -178.348, 28.36365 ], [ -178.25092, 28.472 ], [ -178.21163, 28.42026 ] ] ], [ [ [ 166.67594, 19.33324 ], [ 166.66242, 19.24561 ], [ 166.54495, 19.30762 ], [ 166.59794, 19.35621 ], [ 166.67594, 19.33324 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "SZ", "CNTR_NAME": "Kingdom of Eswatini", "ISO3_CODE": "SWZ", "CNTR_ID": "SZ", "NAME_ENGL": "Eswatini", "FID": "SZ" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.98213, -25.95205 ], [ 32.09535, -26.07448 ], [ 32.13366, -26.83498 ], [ 32.01468, -26.84377 ], [ 31.96075, -27.30205 ], [ 31.53144, -27.31382 ], [ 31.13961, -27.17841 ], [ 30.80485, -26.74817 ], [ 30.83773, -26.42125 ], [ 31.15392, -25.9074 ], [ 31.31866, -25.75677 ], [ 31.44844, -25.73865 ], [ 31.85587, -25.98224 ], [ 31.98213, -25.95205 ] ] ] } }
+]
+}

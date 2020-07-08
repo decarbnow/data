@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "LU", "CNTR_NAME": "Luxemburg-Luxembourg-Lëtzebuerg", "ISO3_CODE": "LUX", "CNTR_ID": "LU", "NAME_ENGL": "Luxembourg", "FID": "LU" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.13766, 50.12995 ], [ 6.17872, 49.96212 ], [ 6.3651, 49.84974 ], [ 6.47496, 49.82127 ], [ 6.48241, 49.72055 ], [ 6.3651, 49.53951 ], [ 6.3651, 49.45957 ], [ 5.89339, 49.49694 ], [ 5.81812, 49.54631 ], [ 5.89372, 49.66488 ], [ 5.74632, 49.85359 ], [ 5.8994, 50.10304 ], [ 6.0249, 50.18278 ], [ 6.13766, 50.12995 ] ] ] } }
+]
+}

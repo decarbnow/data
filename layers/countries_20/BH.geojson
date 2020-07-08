@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "BH", "CNTR_NAME": "مملكة البحرين", "ISO3_CODE": "BHR", "CNTR_ID": "BH", "NAME_ENGL": "Bahrain", "FID": "BH" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 50.42858, 26.15162 ], [ 50.47202, 26.22766 ], [ 50.55256, 26.2262 ], [ 50.63955, 26.11514 ], [ 50.61377, 25.84853 ], [ 50.57239, 25.80072 ], [ 50.53046, 25.88898 ], [ 50.46533, 25.94906 ], [ 50.493, 26.04355 ], [ 50.4646, 26.13261 ], [ 50.42858, 26.15162 ] ] ] } }
+]
+}

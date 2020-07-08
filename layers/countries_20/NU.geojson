@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "NU", "CNTR_NAME": "Niue-Niuē", "ISO3_CODE": "NIU", "CNTR_ID": "NU", "NAME_ENGL": "Niue", "FID": "NU" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -169.95228, -19.07467 ], [ -169.87815, -18.95783 ], [ -169.8071, -18.96216 ], [ -169.77418, -19.05762 ], [ -169.8439, -19.14717 ], [ -169.92247, -19.13401 ], [ -169.95228, -19.07467 ] ] ] } }
+]
+}

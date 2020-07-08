@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "CW", "CNTR_NAME": "Curaçao", "ISO3_CODE": "CUW", "CNTR_ID": "CW", "NAME_ENGL": "Curaçao", "FID": "CW" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -69.15766, 12.29729 ], [ -69.13962, 12.38165 ], [ -69.07401, 12.35379 ], [ -69.0288, 12.24108 ], [ -68.98007, 12.20008 ], [ -68.8515, 12.17396 ], [ -68.76437, 12.07121 ], [ -68.7891, 12.03283 ], [ -68.96032, 12.11216 ], [ -69.02725, 12.19431 ], [ -69.07831, 12.19486 ], [ -69.15766, 12.29729 ] ] ] } }
+]
+}
