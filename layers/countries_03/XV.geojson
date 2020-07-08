@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "XV", "CNTR_NAME": "Bir Tawil (Disputed Territory)", "ISO3_CODE": "XV", "CNTR_ID": "XV", "NAME_ENGL": "Bir Tawil (Disputed Territory)", "FID": "XV" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.08653, 22.00251 ], [ 34.00235, 21.77319 ], [ 33.56915, 21.72636 ], [ 33.25831, 21.94776 ], [ 33.18263, 22.00166 ], [ 33.25831, 22.00173 ], [ 33.67922, 22.00213 ], [ 33.75, 22.00219 ], [ 33.99204, 22.00242 ], [ 34.08653, 22.00251 ] ] ] } }
+]
+}
