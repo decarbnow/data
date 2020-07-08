@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "BV", "CNTR_NAME": "Bouvetøya", "ISO3_CODE": "BVT", "CNTR_ID": "BV", "NAME_ENGL": "Bouvet Island", "FID": "BV" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.2956, -54.41711 ], [ 3.30409, -54.39881 ], [ 3.37353, -54.39055 ], [ 3.41268, -54.39782 ], [ 3.43371, -54.42341 ], [ 3.41395, -54.44504 ], [ 3.32896, -54.45134 ], [ 3.2956, -54.41711 ] ] ] } }
+]
+}

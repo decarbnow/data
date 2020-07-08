@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "TV", "CNTR_NAME": "Tuvalu-Tuvalu", "ISO3_CODE": "TUV", "CNTR_ID": "TV", "NAME_ENGL": "Tuvalu", "FID": "TV" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 177.3835, -6.11979 ], [ 177.32598, -6.12925 ], [ 177.29947, -6.09709 ], [ 177.37828, -6.09536 ], [ 177.3835, -6.11979 ] ] ], [ [ [ 177.17227, -7.2499 ], [ 177.13829, -7.2549 ], [ 177.13392, -7.18496 ], [ 177.1668, -7.19798 ], [ 177.17227, -7.2499 ] ] ] ] } }
+]
+}

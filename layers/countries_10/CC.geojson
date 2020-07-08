@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "CC", "CNTR_NAME": "Cocos Keeling Islands", "ISO3_CODE": "CCK", "CNTR_ID": "CC", "NAME_ENGL": "Cocos (Keeling) Islands", "FID": "CC" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 96.848, -11.8106 ], [ 96.83228, -11.86703 ], [ 96.7968, -11.84493 ], [ 96.82422, -11.79363 ], [ 96.848, -11.8106 ] ] ], [ [ [ 96.84182, -12.15651 ], [ 96.8533, -12.20802 ], [ 96.80949, -12.19759 ], [ 96.8057, -12.14371 ], [ 96.84182, -12.15651 ] ] ] ] } }
+]
+}

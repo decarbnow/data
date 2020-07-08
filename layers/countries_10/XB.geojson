@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "XB", "CNTR_NAME": "Spratly Islands (Disputed Territory)", "ISO3_CODE": "XB", "CNTR_ID": "XB", "NAME_ENGL": "Spratly Islands", "FID": "XB" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 114.25703, 11.04299 ], [ 114.26826, 11.0764 ], [ 114.2852, 11.08254 ], [ 114.31799, 11.04521 ], [ 114.29055, 11.0247 ], [ 114.25703, 11.04299 ] ] ] } }
+]
+}

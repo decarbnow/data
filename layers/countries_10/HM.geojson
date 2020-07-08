@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "HM", "CNTR_NAME": "Heard Island and Mcdonald Islands", "ISO3_CODE": "HMD", "CNTR_ID": "HM", "NAME_ENGL": "Heard Island and Mcdonald Islands", "FID": "HM" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 73.53062, -53.20407 ], [ 73.46738, -53.21606 ], [ 73.40959, -53.1922 ], [ 73.36663, -53.06098 ], [ 73.39416, -53.02903 ], [ 73.53062, -53.01634 ], [ 73.6389, -53.04551 ], [ 73.72508, -53.11928 ], [ 73.53062, -53.20407 ] ] ], [ [ [ 73.35793, -53.02099 ], [ 73.2971, -53.02524 ], [ 73.26227, -53.01479 ], [ 73.25111, -52.98884 ], [ 73.29884, -52.97028 ], [ 73.3334, -52.98061 ], [ 73.35793, -53.02099 ] ] ] ] } }
+]
+}

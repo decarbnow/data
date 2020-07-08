@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "AW", "CNTR_NAME": "Aruba-Aruba", "ISO3_CODE": "ABW", "CNTR_ID": "AW", "NAME_ENGL": "Aruba", "FID": "AW" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -70.06306, 12.5398 ], [ -70.04497, 12.57907 ], [ -70.05143, 12.60855 ], [ -70.02368, 12.60236 ], [ -69.98786, 12.55991 ], [ -69.94504, 12.53817 ], [ -69.88715, 12.48103 ], [ -69.86676, 12.41791 ], [ -69.88365, 12.41403 ], [ -69.99784, 12.48046 ], [ -70.06306, 12.5398 ] ] ] } }
+]
+}

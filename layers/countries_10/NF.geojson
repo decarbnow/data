@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "NF", "CNTR_NAME": "Norfolk Island-Norfuk Ailen", "ISO3_CODE": "NFK", "CNTR_ID": "NF", "NAME_ENGL": "Norfolk Island", "FID": "NF" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 167.91575, -29.03288 ], [ 167.94211, -29.0 ], [ 167.99951, -29.02752 ], [ 167.96891, -29.06335 ], [ 167.9173, -29.05303 ], [ 167.91575, -29.03288 ] ] ] } }
+]
+}

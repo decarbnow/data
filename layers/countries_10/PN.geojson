@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "PN", "CNTR_NAME": "Pitcairn Islands-Pitkern Ailen", "ISO3_CODE": "PCN", "CNTR_ID": "PN", "NAME_ENGL": "Pitcairn Islands", "FID": "PN" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -128.35759, -24.36836 ], [ -128.34076, -24.33682 ], [ -128.30182, -24.33063 ], [ -128.2983, -24.42371 ], [ -128.33719, -24.40765 ], [ -128.35759, -24.36836 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "BB", "CNTR_NAME": "Barbados", "ISO3_CODE": "BRB", "CNTR_ID": "BB", "NAME_ENGL": "Barbados", "FID": "BB" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -59.65101, 13.30589 ], [ -59.6127, 13.33525 ], [ -59.57642, 13.30734 ], [ -59.5377, 13.22759 ], [ -59.41983, 13.14873 ], [ -59.45425, 13.09115 ], [ -59.50427, 13.05159 ], [ -59.61294, 13.07825 ], [ -59.63708, 13.13285 ], [ -59.65101, 13.30589 ] ] ] } }
+]
+}

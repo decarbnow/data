@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "JE", "CNTR_NAME": "Jersey-Jersey", "ISO3_CODE": "JEY", "CNTR_ID": "JE", "NAME_ENGL": "Jersey", "FID": "JE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.25338, 49.25181 ], [ -2.18335, 49.24755 ], [ -2.1591, 49.26113 ], [ -2.09177, 49.25274 ], [ -2.02562, 49.22088 ], [ -2.03357, 49.16669 ], [ -2.07866, 49.16374 ], [ -2.14808, 49.19705 ], [ -2.17104, 49.18001 ], [ -2.2196, 49.17594 ], [ -2.2231, 49.20651 ], [ -2.25338, 49.25181 ] ] ] } }
+]
+}

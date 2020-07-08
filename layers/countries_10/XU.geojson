@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "XU", "CNTR_NAME": "Abyei Region (Disputed Territory)", "ISO3_CODE": "XU", "CNTR_ID": "XU", "NAME_ENGL": "Abyei", "FID": "XU" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.97701, 9.64116 ], [ 28.89532, 9.56921 ], [ 28.80942, 9.48686 ], [ 28.75011, 9.35104 ], [ 28.08826, 9.34395 ], [ 28.03364, 9.36194 ], [ 27.92754, 9.56921 ], [ 27.90722, 9.61016 ], [ 27.81453, 9.80079 ], [ 27.81506, 10.14339 ], [ 28.97529, 10.11769 ], [ 28.97667, 9.73408 ], [ 28.97701, 9.64116 ] ] ] } }
+]
+}

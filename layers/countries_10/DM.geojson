@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "id": "DM", "CNTR_NAME": "Dominica-Dominique", "ISO3_CODE": "DMA", "CNTR_ID": "DM", "NAME_ENGL": "Dominica", "FID": "DM" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -61.47394, 15.52669 ], [ -61.4404, 15.63338 ], [ -61.30686, 15.57642 ], [ -61.25488, 15.50093 ], [ -61.24823, 15.41934 ], [ -61.25869, 15.26441 ], [ -61.34556, 15.21669 ], [ -61.36509, 15.2278 ], [ -61.42999, 15.41934 ], [ -61.47394, 15.52669 ] ] ] } }
+]
+}
