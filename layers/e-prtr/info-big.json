@@ -1,0 +1,17 @@
+{
+    "id": "e-prtr",
+    "file": "points-big.geojson",
+    "name": "PRTR biggest <i class='fa fa-info-circle'></i>",
+    "style": {
+        "color": "#0000FF"
+    },
+    "popup": {
+        "template": "popup.html"
+    },
+    "pointToLayer": {
+        "radius": {
+            "feature": "TotalQuantityCO2",
+            "factor": 1/100000000
+        }
+    }
+}

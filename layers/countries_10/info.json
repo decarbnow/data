@@ -1,0 +1,10 @@
+{
+    "id": "countries_10",
+    "name": "Countries <i class='fa fa-info-circle'></i>",
+    "style": {
+        "color": "#0000FF"
+    },
+    "popup": {
+        "template": "popup.html"
+    }
+}

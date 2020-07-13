@@ -1,0 +1,17 @@
+{
+    "id": "e-prtr2",
+    "file": "points-small.geojson",
+    "name": "PRTR smallest <i class='fa fa-info-circle'></i>",
+    "style": {
+        "color": "#0000FF"
+    },
+    "popup": {
+        "template": "popup.html"
+    },
+    "pointToLayer": {
+        "radius": {
+            "feature": "TotalQuantityCO2",
+            "factor": 1/100000000
+        }
+    }
+}
