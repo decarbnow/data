@@ -1,16 +1,16 @@
 {
-  "name": "decarbnow-data",
-  "version": "1.0.0",
-  "description": "data of decarbnow",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "http-server -p 8088 --cors"
-  },
-  "dependencies": {},
-  "devDependencies": {
-    "http-server": "^0.12.3"
-  },
-  "author": "decarbnow group",
-  "license": "MIT"
+    "name": "decarbnow-data",
+    "version": "1.0.0",
+    "description": "data of decarbnow",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "serve": "http-server -p 8088 --cors"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "http-server": "^0.12.3"
+    },
+    "author": "decarbnow group",
+    "license": "MIT"
 }
