@@ -1,0 +1,25 @@
+{
+    "title": "Diff. Temperature"
+    "subtitle": "Average 1980-1989 compared with 2015-2019"
+    "entries": [
+        {
+            "color": "#9999FF"
+            "text": "≥-2℃, <-1℃"
+        }, {
+            "color": "#CCCCFF"
+            "text": "≥-1℃, < 0℃"
+        }, {
+            "color": "#FFCCCC"
+            "text": "≥ 0℃, < 1℃"
+        }, {
+            "color": "#FF9999"
+            "text": "≥ 1℃, < 2℃"
+        }, {
+            "color": "#FF6666"
+            "text": "≥ 2℃, < 4℃"
+        }, {
+            "color": "#FF6666"
+            "text": "≥ 4℃, < 8℃"
+        }
+    ]
+}
