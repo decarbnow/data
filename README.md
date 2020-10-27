@@ -12,7 +12,7 @@ This is the data repository of decarbnow. Adding data is more than welcome!
 
 * [Temperature](https://github.com/decarbnow/data/tree/master/layers/temperature)
 
-# Shapes
+## Shapes
 
 * [Country Shapes](https://github.com/decarbnow/data/tree/master/layers/countries)
 * [NO2](https://github.com/decarbnow/data/tree/master/layers/no2)
