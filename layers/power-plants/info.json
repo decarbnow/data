@@ -1,0 +1,17 @@
+{
+    "id": "power-plants",
+    "file": "points.geojson",
+    "name": "Big coal power stations <i class='fa fa-info-circle'></i>",
+    "style": {
+        "color": "#FF0000"
+    },
+    "popup": {
+        "template": "popup.html"
+    },
+    "pointToLayer": {
+        "radius": {
+            "feature": "capacity_mw",
+            "factor": 1/500
+        }
+    }
+}
